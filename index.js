@@ -76,5 +76,4 @@ app.use('/api/v1', routes);
 
 // Start the server
 app.listen(port, () => {
-  console.log(`[server]: Server is running at http://localhost:${port}`);
-});
+  console.log(`[server]: Server is running at http://localhost:${port}`);})

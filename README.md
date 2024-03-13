@@ -36,4 +36,3 @@ To install the project, run the following command:
   }
 
 # In file change  the code to run the command  npm start their are automatically refresh their server.
-
